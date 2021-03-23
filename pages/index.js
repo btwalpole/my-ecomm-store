@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Homemade masks and scrunchies!
+          Home-made masks and scrunchies!
         </p>
 
         <ul className={styles.grid}>
