@@ -1,0 +1,23 @@
+[
+    {
+        "id": "price_1IYEqBBn6ujpoUXKMzLYBGCA",
+        "title": "Afternoon Tea",
+        "description": "Safely scoff on scones!",
+        "image": "/images/beigegreen.jpeg",
+        "price": 8
+    },
+    {
+        "id": "price_1IYEx4Bn6ujpoUXKvk5ZEEcN",
+        "title": "Monet",
+        "description": "R u feelin artsy?",
+        "image": "/images/rainbow-fish.jpeg",
+        "price": 8
+    },
+    {
+        "id": "price_1IYExZBn6ujpoUXKeBTpQIKY",
+        "title": "Cherry Blossom",
+        "description": "Sringy Vibez",
+        "image": "/images/cherry_blossom.jpeg",
+        "price": 8
+    }
+]
